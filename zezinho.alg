@@ -1,8 +1,8 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 01/10/2015
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 multa,quilos:real
 inicio
@@ -14,4 +14,4 @@ escreva("KG EXCEDIDO sua multa e: " , multa ," reais")
    senao
 escreva("voce nao deve pagar nada")
 fimse
-fimalgoritmo
+finalgoritmo
